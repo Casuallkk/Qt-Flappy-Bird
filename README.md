@@ -1,7 +1,7 @@
 # Qt-Flappy-Bird
-#简介
+## 简介
 A small Game based on Qt5，借鉴了默然dl的代码https://github.com/Lokimik/FlappyBird
-#说明
+## 说明
 修改了部分过时的函数和写法。
 没有使用游戏引擎，没什么参考价值。正在学游戏引擎，也许以后会更新使用游戏引擎的版本。
 做了一些自定义美化。
